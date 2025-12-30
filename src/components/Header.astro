@@ -1,0 +1,20 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header class="sticky top-0 z-50 glass">
+	<nav class="max-w-4xl mx-auto px-6 h-16 flex items-center justify-between">
+		<h2 class="text-xl font-bold">
+			<a href="/" class="text-gradient hover:opacity-80 transition-opacity">
+				{SITE_TITLE}
+			</a>
+		</h2>
+		<div class="flex gap-6 items-center">
+			<HeaderLink href="/" class="text-sm font-medium hover:text-brand-primary transition-colors">Home</HeaderLink>
+			<HeaderLink href="/blog" class="text-sm font-medium hover:text-brand-primary transition-colors">Blog</HeaderLink>
+			<HeaderLink href="/about" class="text-sm font-medium hover:text-brand-primary transition-colors">About</HeaderLink>
+		</div>
+	</nav>
+</header>
+

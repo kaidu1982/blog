@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #8b5cf6; /* Electric Purple */
+  --color-brand-secondary: #06b6d4; /* Cyan */
+  --color-brand-dark: #0f172a; /* Slate 900 */
+  --color-brand-surface: #1e293b; /* Slate 800 */
+  --color-brand-border: #1e293b; /* Slate 800 */
+  --color-brand-background: #0f172a;
+  --color-brand-foreground: #f8fafc;
+  --color-brand-muted: #94a3b8;
+  
+  --font-sans: "Inter", "Outfit", system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-background text-brand-foreground font-sans antialiased;
+    background-image: radial-gradient(
+      circle at 50% -20%,
+      rgba(139, 92, 246, 0.15),
+      transparent 80%
+    );
+    min-height: 100vh;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold tracking-tight text-white mb-4;
+  }
+
+  a {
+    @apply text-brand-primary hover:text-brand-secondary transition-colors duration-200;
+  }
+
+  code {
+    @apply px-1.5 py-0.5 rounded bg-brand-surface text-brand-secondary text-sm;
+  }
+
+  pre {
+    @apply p-4 rounded-xl bg-brand-dark border border-brand-border overflow-x-auto;
+  }
+
+  pre > code {
+    @apply bg-transparent p-0 text-brand-foreground;
+  }
+
+  blockquote {
+    @apply pl-4 border-l-4 border-brand-primary italic text-brand-muted my-6;
+  }
+}
+
+/* Glassmorphism utility */
+.glass {
+  @apply bg-brand-surface/60 backdrop-blur-md border border-white/10;
+}
+
+/* Gradient text utility */
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-primary to-brand-secondary;
+}
+
+.prose {
+  @apply max-w-none;
+}
+
+.prose p {
+  @apply mb-6 leading-relaxed text-slate-300;
+}
