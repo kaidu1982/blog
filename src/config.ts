@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://example.com/", // replace this with your deployed domain
-  author: "David",
-  profile: "https://example.com/",
-  desc: "A premium developer blog built with Astro and Astro Paper theme.",
-  title: "David's Blog",
+  website: "https://blog-delta-six-49.vercel.app/", // replace this with your deployed domain
+  author: "김학진",
+  profile: "https://blog-delta-six-49.vercel.app/",
+  desc: "개발과 운동 이야기",
+  title: "hakjin's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -14,10 +14,10 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/kaidu1982/blog",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
-  lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  lang: "ko", // html lang code. Set this empty and default will be "en"
+  timezone: "Asia/Seoul", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;
