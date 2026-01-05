@@ -1,6 +1,6 @@
 ---
 author: David
-pubDatetime: 2026-01-06T00:00:00Z
+pubDatetime: 2026-01-06T00:00:00+09:00
 title: "First post"
 ogImage: "../../assets/blog-placeholder-3.jpg"
 description: "글을 쓰는 이유"
