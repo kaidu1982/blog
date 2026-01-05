@@ -1,18 +1,118 @@
 ---
 author: David
-pubDatetime: 2022-07-08T00:00:00Z
+pubDatetime: 2026-01-06T00:00:00Z
 title: "First post"
 ogImage: "../../assets/blog-placeholder-3.jpg"
-description: "Lorem ipsum dolor sit amet"
+description: "글을 쓰는 이유"
 tags: ["others"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## 글을 쓰는 이유
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+일을 시작한지 20년이 넘었지만 그전까지는 기록에 가치를 두지 않았었다.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+프로그램 코드를 작성해서 만드는 레거시 작업으로도 관리가 어려운데 글을 써서 보관하는 행위는 가치가 없다고 생각해서 였다.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+작성한 결과물을 바탕으로 다시 한번 생각해보는 과정을 겪으면 이전의 방식에 얽매여서 창의적이면서도 실용적인 결과물을 만들 수 없다고 생각해서 였던거 같다.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+그러다 나이가 40대를 되어가면서 짧은 생각으로 좋은 결과물을 만들어내는게 이제는 어렵다고 느껴졌다.
+
+이유는 크게 2가지 였는데,
+
+- 첫번째는 뇌의 단기 기억 공간(short term memory)이 줄어들어서 많은 정보를 바탕으로 생각하는게 어려워졌고
+- 두번째는 생각의 완성도, 그리고 단계별 빌드업을 하는데 있어 단기 기억 공간 (short term memory)은 한계가 명확하다는것을 깨달으면서 였다.
+
+## 글쓰는 공간
+
+생각을 정리하기 위해, 부족한 기억력을 보완하기 위해 메모를 하기 시작했다.
+
+2020, 2021년은 Notion을 이용해서 메모를 했다.
+
+Notion은 글을 노력하지 않아도 기본적인 틀을 제공하는 플랫폼이라 편리했다.
+
+하지만 Notion은 외부의 서비스에 저장되는 플랫폼이라 아쉬운 부분이 있었다.
+
+- 타이핑, 문서를 읽는데 느렸다. (한국에 데이터 센터가 없어서 더 느린거 같다.)
+- 서비스가 종료되면 데이터도 함께 삭제된다. 데이터 마이그레이션도 어렵다.
+- 데이터 저장공간이 필요하면 결제를 해야한다.
+
+에버노트의 과한 유료화 정책 이후 이사를 고민한 사용자들이 많았다.
+
+그래서 저장하는 공간에 대해 좀 더 고민했다.
+
+## Obsidian
+
+내가 정보를 접하는 공간은 크게 2가지다.
+
+- IT, Tech 뉴스
+- 주식, 경제 뉴스
+
+정보를 접하는 공간은 주제별 Telegram 채널이다.
+
+2021, 2022년 IT와 주식 정보를 다루는 채널에서 Obsidian은 모두 이슈가 되어서 설치해서 사용해보았다.
+
+몇가지가 맘에 들었다.
+
+- 모든 컨텐츠가 내 기기의 디스크에 저장된다.
+- Markdown 포맷으로 작성할 수 있다.
+- 모바일 앱이 지원된다. 맥북에서 작성한 노트를 아이폰에서 볼 수 있다.
+
+특히 컨텐츠를 내 기기에 저장하고 Markdown 포맷으로 문서를 작성하는게 마음에 들었다.
+옵시디언을 쓰기 어려운환경에 놓이거나 더 좋은것이 나타나게 되면 이사를 갈수도 있는셈이니까...
+
+## 생산성, 지식관리
+
+메모를 하기 시작하니까 어떻게 메모를 해야 효율적인지 궁금해졌다.
+
+이미 훌륭한 분들이 정리한 내용들이 있더라.
+
+- 제텔카스텐
+- 세컨드 브레인
+- GTD
+
+주제별로 책도 1~2권씩 읽어보았다.
+
+## 감정적 글쓰기
+
+글을 쓰면서 일일 노트에 감정도 많이 기록했다.
+
+월간, 연간 회고때는 꽤 시간이 지난 후의 나와 이전의 나가 마주하게 되는데 이것이 나에게는 큰 도움이 되었다.
+
+가끔은 전혀 다른 자아 2개가 대화를 하는 느낌도 들었다.
+
+자기객관화에도 도움이 되고 무엇보다 가끔 누군가와의 대화에서 내가 감정을 드러내는 순간에 '이게 정말 의미가 있는건지?' 생각해보고 어느 정도 조절이 되었다.
+
+## 블로그 시작
+
+어느덧 Obsidian으로 메모를 하고 글을 쓰기 시작한지 5년이 되었다.
+
+Obsidian으로 메모를 하고 글을 쓰는 것도 의미 있는 과정이지만 개별 주제의 글을 나만 보는것이라 생각을 이어다가다 멈추는 경향이 있다.
+완성도도 미흡한편이었다.
+
+개별 주제을 정리하고 공유하면 좋지 않을까 생각했다.
+
+마침 이런 글도 있었다.
+
+[작업을 공개하면 행운이 따른다](https://news.hada.io/topic?id=25406)
+
+## Astro
+
+이전에 메모, 글을 어디에 어떻게 작성할지 고민한것처럼 블로그도 고민했다.
+
+Obsidian 처럼 md를 지원하면서 자유도가 높은 환경을 찾고싶었다.
+
+Astro는 그런 환경을 제공해준다.
+
+아일랜드 아키텍처를 사용하면 개별 아일랜드에서 개별 프레임워크를 사용할 수 있다.
+
+궁극의 자유도!!
+
+하지만, 코드를 작성해서 블로그에 공개하는 귀찮음을 극복할지는 모르겠다.
+
+## 마치며..
+
+지금 이순간 이 글을 작성하는데도 2시간이 걸렸다.
+
+유튜브, 넷플릭스 영상 2시간을 보는걸 포기하고 말이다.
+
+귀찮음을 극복하는게 쉽지 않지만 열심히 해보겠다.
